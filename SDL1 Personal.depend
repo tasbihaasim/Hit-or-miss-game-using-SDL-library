@@ -1,0 +1,811 @@
+# depslib dependency file v1.0
+1572456791 source:f:\university\oop\sdl personal\color.cpp
+	"Color.hpp"
+
+1572456791 f:\university\oop\sdl personal\color.hpp
+
+1575761784 source:f:\university\oop\sdl personal\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"Game.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\program files\development\sdl2_mingw\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1572456791 f:\university\oop\sdl personal\rect.hpp
+	<SDL2/SDL.h>
+	<SDL.h>
+	"Point.hpp"
+	"Shape.hpp"
+
+1572456791 f:\university\oop\sdl personal\point.hpp
+	<SDL2/SDL.h>
+	<SDL.h>
+	"Shape.hpp"
+
+1572456791 f:\university\oop\sdl personal\shape.hpp
+	<iostream>
+	<string>
+
+1572456791 source:f:\university\oop\sdl personal\point.cpp
+	"Point.hpp"
+
+1572456791 source:f:\university\oop\sdl personal\rect.cpp
+	"Rect.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Color.hpp"
+
+1572456791 source:f:\university\oop\sdl personal\shape.cpp
+	"Shape.hpp"
+	<string>
+
+1573128274 source:f:\university\oop\sdl personal\unit.cpp
+	"Unit.h"
+
+1554197122 f:\university\oop\sdl personal\unit.h
+	<SDL2/SDL.h>
+	<SDL2_image/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	<cstdio>
+	<iostream>
+
+1475479024 f:\university\oop\sdl personal\tank.h
+	"Unit.h"
+	"Turret.h"
+
+1573125894 f:\university\oop\sdl personal\turret.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"Unit.h"
+
+1529962694 source:f:\university\oop\sdl personal\tank.cpp
+	"Tank.h"
+
+1475479290 source:f:\university\oop\sdl personal\turret.cpp
+	"Turret.h"
+
+1575801690 f:\university\oop\sdl personal\game.h
+	"SDL.h"
+	<SDL_image.h>
+	<iostream>
+
+1575842057 source:f:\university\oop\sdl personal\game.cpp
+	"Game.h"
+	"TextureManager.hpp"
+	"GameObject.hpp"
+	"Player.hpp"
+	"Obstacles.hpp"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+	"SpawnManager.hpp"
+	"TimeManager.hpp"
+
+1574836929 f:\university\oop\sdl personal\game.cpp
+	"Game.h"
+
+1575801690 f:\university\oop\sdl personal\texturemanager.hpp
+	"Game.h"
+
+1575841253 source:f:\university\oop\sdl personal\texturemanager.cpp
+	"TextureManager.hpp"
+
+1575742263 f:\university\oop\sdl personal\gameobject.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+
+1575742220 source:f:\university\oop\sdl personal\gameobject.cpp
+	"GameObject.hpp"
+
+1575775802 f:\university\oop\sdl personal\player.hpp
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+
+1575771976 f:\university\oop\sdl personal\obstacles.hpp
+	"GameObject.hpp"
+
+1574855970 f:\university\oop\sdl personal\gameobject.cpp
+	"GameObject.hpp"
+	"TextureManager.hpp"
+	<time.h>
+
+1575775860 source:f:\university\oop\sdl personal\player.cpp
+	"Player.hpp"
+
+1575729145 f:\university\oop\sdl personal\obstaclecontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Obstacles.hpp"
+
+1575801686 source:f:\university\oop\sdl personal\spawnmanager.cpp
+	"SpawnManager.hpp"
+	<time.h>
+
+1575773684 f:\university\oop\sdl personal\spawnmanager.hpp
+	"Game.h"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+	"BulletContainer.hpp"
+
+1575729187 source:f:\university\oop\sdl personal\obstaclecontainer.cpp
+	"ObstacleContainer.hpp"
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Obstacles.hpp"
+
+1575772277 source:f:\university\oop\sdl personal\powerup.cpp
+	"Powerup.hpp"
+	"TextureManager.hpp"
+
+1575737290 f:\university\oop\sdl personal\powerup.hpp
+	"GameObject.hpp"
+	"Game.h"
+
+1575729316 source:f:\university\oop\sdl personal\powerupcontainer.cpp
+	"PowerupContainer.hpp"
+
+1575729268 f:\university\oop\sdl personal\powerupcontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+	"Powerup.hpp"
+
+1575760022 source:c:\users\ma'aaz\desktop\game\oopgame-master\game.cpp
+	"Game.h"
+	"TextureManager.hpp"
+	"GameObject.hpp"
+	"Player.hpp"
+	"Obstacles.hpp"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+	"SpawnManager.hpp"
+
+1575759889 c:\users\ma'aaz\desktop\game\oopgame-master\game.h
+	"SDL.h"
+	<SDL_image.h>
+	<iostream>
+
+1561870368 c:\program files\development\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\texturemanager.hpp
+	"Game.h"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\gameobject.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\player.hpp
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\obstaclecontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Obstacles.hpp"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\obstacles.hpp
+	"GameObject.hpp"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\powerupcontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+	"Powerup.hpp"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\powerup.hpp
+	"GameObject.hpp"
+	"Game.h"
+
+1575757340 c:\users\ma'aaz\desktop\game\oopgame-master\spawnmanager.hpp
+	"Game.h"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+
+1575759552 source:c:\users\ma'aaz\desktop\game\oopgame-master\gameobject.cpp
+	"GameObject.hpp"
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"Game.h"
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\obstaclecontainer.cpp
+	"ObstacleContainer.hpp"
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Obstacles.hpp"
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\player.cpp
+	"Player.hpp"
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\powerup.cpp
+	"Powerup.hpp"
+	"TextureManager.hpp"
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\powerupcontainer.cpp
+	"PowerupContainer.hpp"
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\spawnmanager.cpp
+	"SpawnManager.hpp"
+	<time.h>
+
+1575757340 source:c:\users\ma'aaz\desktop\game\oopgame-master\texturemanager.cpp
+	"TextureManager.hpp"
+
+1575765393 source:f:\university\oop\sdl personal\bullet.cpp
+	"Bullet.hpp"
+
+1575762735 f:\university\oop\sdl personal\bullet.hpp
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+
+1575763202 source:f:\university\oop\sdl personal\bulletcontainer.cpp
+	"BulletContainer.hpp"
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Bullet.hpp"
+
+1575763145 f:\university\oop\sdl personal\bulletcontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Bullet.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\bullet.cpp
+	"Bullet.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\bullet.hpp
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\gameobject.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+
+1575799214 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\texturemanager.hpp
+	"Game.h"
+
+1575799626 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\game.h
+	"SDL.h"
+	<SDL_image.h>
+	<iostream>
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\obstaclecontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Obstacles.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\obstacles.hpp
+	"GameObject.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\bulletcontainer.cpp
+	"BulletContainer.hpp"
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Bullet.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\bulletcontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Bullet.hpp"
+
+1575799992 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\game.cpp
+	"Game.h"
+	"TextureManager.hpp"
+	"GameObject.hpp"
+	"Player.hpp"
+	"Obstacles.hpp"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+	"SpawnManager.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\player.hpp
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\powerupcontainer.hpp
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"ObstacleContainer.hpp"
+	"Powerup.hpp"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\powerup.hpp
+	"GameObject.hpp"
+	"Game.h"
+
+1575798889 c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\spawnmanager.hpp
+	"Game.h"
+	"ObstacleContainer.hpp"
+	"PowerupContainer.hpp"
+	"BulletContainer.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\gameobject.cpp
+	"GameObject.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"Game.h"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\obstaclecontainer.cpp
+	"ObstacleContainer.hpp"
+	"TextureManager.hpp"
+	<time.h>
+	"Game.h"
+	"GameObject.hpp"
+	"Obstacles.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\player.cpp
+	"Player.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\powerup.cpp
+	"Powerup.hpp"
+	"TextureManager.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\powerupcontainer.cpp
+	"PowerupContainer.hpp"
+
+1575798889 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\spawnmanager.cpp
+	"SpawnManager.hpp"
+	<time.h>
+
+1575799262 source:c:\users\ma'aaz\desktop\gamewithbetterobstacle\oopgame-master\oopgame-master\texturemanager.cpp
+	"TextureManager.hpp"
+	<SDL_ttf.h>
+
+1547322281 c:\development\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1575841951 f:\university\oop\sdl personal\timemanager.hpp
+	"Game.h"
+
+1575841982 source:f:\university\oop\sdl personal\timemanager.cpp
+	"TimeManager.hpp"
+
+1575900138 source:f:\university\oop\sdl_tasbiha\game.cpp
+	<string.h>
+	<SDL_image.h>
+	<SDL.h>
+	<iostream>
+	<cmath>
+	<iomanip>
+	<list>
+	"game.hpp"
+	"Object.hpp"
+	"Plane.hpp"
+
+1575889777 f:\university\oop\sdl_tasbiha\game.hpp
+	<string.h>
+	<SDL_image.h>
+	<SDL.h>
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1575895620 source:f:\university\oop\sdl_tasbiha\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+	<iostream>
+	"game.hpp"
+
+1575895929 source:f:\university\oop\sdl_tasbiha\object.cpp
+	"Object.hpp"
+	"TextureManager.hpp"
+
+1575894921 f:\university\oop\sdl_tasbiha\object.hpp
+	"game.hpp"
+
+1575893472 source:f:\university\oop\sdl_tasbiha\texturemanager.cpp
+	"TextureManager.hpp"
+	"TextureManager.hpp"
+
+1575891821 f:\university\oop\sdl_tasbiha\texturemanager.hpp
+	"game.hpp"
+
+1575899943 f:\university\oop\sdl_tasbiha\plane.hpp
+	"Object.hpp"
+	"TextureManager.hpp"
+
+1575899951 source:f:\university\oop\sdl_tasbiha\plane.cpp
+	"Plane.hpp"
+

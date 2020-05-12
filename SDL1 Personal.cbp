@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL1 FINAL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDL1 FINAL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDL1 FINAL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add directory="C:/Program Files/Development/SDL2_mingw/i686-w64-mingw32/include/SDL2" />
+			<Add directory="C:/Program Files/Development/SDL2_image-2.0.5/i686-w64-mingw32/include/SDL2" />
+			<Add directory="C:/Development/SDL2_ttf-2.0.15/i686-w64-mingw32/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image" />
+			<Add directory="C:/Program Files/Development/SDL2_mingw/i686-w64-mingw32/lib" />
+			<Add directory="C:/Program Files/Development/SDL2_image-2.0.5/i686-w64-mingw32/lib" />
+			<Add directory="C:/Development/SDL2_ttf-2.0.15/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.hpp" />
+		<Unit filename="BulletContainer.cpp" />
+		<Unit filename="BulletContainer.hpp" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameObject.cpp" />
+		<Unit filename="GameObject.hpp" />
+		<Unit filename="ObstacleContainer.cpp" />
+		<Unit filename="ObstacleContainer.hpp" />
+		<Unit filename="Obstacles.hpp" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.hpp" />
+		<Unit filename="Powerup.cpp" />
+		<Unit filename="Powerup.hpp" />
+		<Unit filename="PowerupContainer.cpp" />
+		<Unit filename="PowerupContainer.hpp" />
+		<Unit filename="SpawnManager.cpp" />
+		<Unit filename="SpawnManager.hpp" />
+		<Unit filename="TextureManager.cpp" />
+		<Unit filename="TextureManager.hpp" />
+		<Unit filename="TimeManager.cpp" />
+		<Unit filename="TimeManager.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
